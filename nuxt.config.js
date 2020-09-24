@@ -48,7 +48,7 @@ export default {
   ],
 
   prismic: {
-    endpoint: "https://your-repo-name.cdn.prismic.io/api/v2",
+    endpoint: "https://vuejs-blog-example.cdn.prismic.io/api/v2",
     linkResolver: "@/plugins/link-resolver",
     htmlSerializer: "@/plugins/html-serializer"
   },
